@@ -23,6 +23,7 @@ options.cols = 64
 options.chain_length = 1
 options.parallel = 1
 options.hardware_mapping = 'adafruit-hat'  # If you have an Adafruit HAT: 'adafruit-hat'
+#options.hardware_mapping = 'adafruit-hat-pwm'  # If you have an Adafruit HAT soldered 4 to 18 : 'adafruit-hat-pwm'
 options.gpio_slowdown = 4
 
 options.panel_type =  "FM6126A"
